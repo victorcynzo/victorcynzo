@@ -9,7 +9,7 @@
 
 <h2> ❔ Personal Information</h2>
 
-```yaml
+```
 name: Victor Ynzonides
 located_in: The Netherlands
 education:
