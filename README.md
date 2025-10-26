@@ -32,5 +32,12 @@ fields_of_interest:
   ]
 ```
 
+<a href="https://github.com/victorcynzo/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=victorcynzo" />
+</a>
+<a href="[https://github.com/anuraghazra/convoychat](https://github.com/victorcynzo/jubilant-waffle)">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=victorcynzo&repo=jubilant-waffle" />
+</a>
+
 [logo]: https://i.redd.it/k9wl9ypumyp31.png
 ![alt text][logo]
