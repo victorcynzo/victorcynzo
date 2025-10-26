@@ -9,21 +9,20 @@
 
 <h2> ❔ Personal Information</h2>
 
-name: Victor Ynzonides
+Name: Victor Ynzonides
 
-located_in: The Netherlands
+Location: The Netherlands
 
-education:
-    Bachelor ArtScience, KABK
-    
-    Master Creative Intelligence & Technology, Leiden University
+Education:
+...Bachelor ArtScience, KABK
+...Master Creative Intelligence & Technology, Leiden University
 
-fields_of_interest:
-    Machine Learning
-    Physics
-    Art
-    Science-Fiction
-    Gaming
+Fields of Interest:
+...Machine Learning
+...Physics
+...Art
+...Science-Fiction
+...Gaming
 
 <h2> 📈 GitHub Stats</h2>
 
