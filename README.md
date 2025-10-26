@@ -8,8 +8,8 @@
 name: Victor Ynzonides
 located_in: The Netherlands
 education:
-[
-"Bachelor ArtScience, KABK",
-Master Creative Intelligence & Technology, "Leiden University",
-]
+  [
+    Bachelor ArtScience, KABK
+    Master Creative Intelligence & Technology, Leiden University
+  ]
 ```
