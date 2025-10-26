@@ -20,6 +20,8 @@ education:
   [
     "[Bachelor ArtScience, KABK](https://www.kabk.nl/en/programmes/bachelor/art-science)"
     "[Master Creative Intelligence & Technology, Leiden University](https://www.universiteitleiden.nl/en/education/study-programmes/master/creative-intelligence--technology)"
+
+    <a href="https://www.kabk.nl/en/programmes/bachelor/art-science">Bachelor ArtScience, KABK<a>
   ]
 
 fields_of_interest:
