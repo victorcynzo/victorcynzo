@@ -32,7 +32,7 @@ fields_of_interest:
   ]
 ```
 
-|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mithi&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mithi&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mithi&theme=dracula)|
+|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=victorcynzo&theme=dark)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victorcynzo&theme=dark)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=victorcynzo&theme=dark)|
 |-----|------|------|
 
 |![](https://github-readme-stats.vercel.app/api?username=victorcynzo&theme=dark&custom_title=Victor's%20GitHub%20Stats)|![](https://github-readme-stats.vercel.app/api/top-langs?username=victorcynzo&layout=compact&langs_count=8&card_width=320&theme=dark")|
