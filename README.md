@@ -8,7 +8,7 @@
 </p>
 
 <h2> ❔ Personal Information</h2>
-``` yaml
+
 Name: Victor Ynzonides
 
 Location: The Netherlands
@@ -22,8 +22,8 @@ Fields of Interest:
 * Physics  
 * Art  
 * [Reading](https://www.goodreads.com/user/show/191246301-victor)  
-* Gaming  
-```
+* Gaming
+* 
 <h2> 📈 GitHub Stats</h2>
 
 |![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=victorcynzo&theme=dark)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victorcynzo&theme=dark)|
