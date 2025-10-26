@@ -5,10 +5,6 @@
 <h2>Personal Information</h2>
 
 ```yaml
-
-[logo]: https://i.redd.it/k9wl9ypumyp31.png
-![alt text][logo]
-
 name: Victor Ynzonides
 located_in: The Netherlands
 education:
@@ -26,3 +22,5 @@ fields_of_interest:
     Gaming
   ]
 ```
+[logo]: https://i.redd.it/k9wl9ypumyp31.png
+![alt text][logo]
