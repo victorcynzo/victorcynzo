@@ -33,3 +33,5 @@ fields_of_interest:
 ```
 [logo]: https://i.redd.it/k9wl9ypumyp31.png
 ![alt text][logo]
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorcynzo)](https://github.com/victorcynzo/github-readme-stats)
