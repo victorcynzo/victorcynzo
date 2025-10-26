@@ -35,15 +35,5 @@ fields_of_interest:
 |![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=victorcynzo&theme=dark)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victorcynzo&theme=dark)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=victorcynzo&theme=dark)|
 |-----|------|------|
 
-|![](https://github-readme-stats.vercel.app/api?username=victorcynzo&theme=dark&custom_title=Victor's%20GitHub%20Stats)|![](https://github-readme-stats.vercel.app/api/top-langs?username=victorcynzo&layout=compact&langs_count=8&card_width=320&theme=dark")|
-
-
-<a href="https://github.com/victorcynzo/github-readme-stats">
-  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=victorcynzo&theme=dark&custom_title=Victor's%20GitHub%20Stats"/>
-</a>
-<a href="https://github.com/victorcynzo /convoychat">
-  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorcynzo&layout=compact&langs_count=8&card_width=320&theme=dark"/>
-</a>
-
 [logo]: https://i.redd.it/k9wl9ypumyp31.png
 ![alt text][logo]
