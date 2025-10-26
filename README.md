@@ -14,15 +14,15 @@ Name: Victor Ynzonides
 Location: The Netherlands
 
 Education:
-...Bachelor ArtScience, KABK
-...Master Creative Intelligence & Technology, Leiden University
+   Bachelor ArtScience, KABK
+   Master Creative Intelligence & Technology, Leiden University
 
 Fields of Interest:
-...Machine Learning
-...Physics
-...Art
-...Science-Fiction
-...Gaming
+   Machine Learning
+   Physics
+   Art
+   Science-Fiction
+   Gaming
 
 <h2> 📈 GitHub Stats</h2>
 
