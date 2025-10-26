@@ -32,6 +32,9 @@ fields_of_interest:
   ]
 ```
 
+|![](https://github-readme-stats.vercel.app/api?username=victorcynzo&theme=dark&custom_title=Victor's%20GitHub%20Stats)|![](https://github-readme-stats.vercel.app/api/top-langs?username=victorcynzo&layout=compact&langs_count=8&card_width=320&theme=dark")
+|-----||-----|
+
 <a href="https://github.com/victorcynzo/github-readme-stats">
   <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=victorcynzo&theme=dark&custom_title=Victor's%20GitHub%20Stats"/>
 </a>
