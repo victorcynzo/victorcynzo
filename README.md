@@ -9,7 +9,6 @@
 
 <h2> ❔ Personal Information</h2>
 
-```
 name: Victor Ynzonides
 located_in: The Netherlands
 education:
@@ -26,7 +25,6 @@ fields_of_interest:
     Science-Fiction
     Gaming
   ]
-```
 
 <h2> 📈 GitHub Stats</h2>
 
