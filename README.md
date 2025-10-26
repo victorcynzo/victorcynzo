@@ -36,7 +36,7 @@ fields_of_interest:
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=victorcynzo" />
 </a>
 <a href="https://github.com/victorcynzo /convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorcynzo&layout=compact&langs_count=8&card_width=320" />
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorcynzo&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 [logo]: https://i.redd.it/k9wl9ypumyp31.png
