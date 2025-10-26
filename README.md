@@ -10,10 +10,12 @@
 <h2> ❔ Personal Information</h2>
 
 name: Victor Ynzonides
+
 located_in: The Netherlands
 
 education:
     Bachelor ArtScience, KABK
+    
     Master Creative Intelligence & Technology, Leiden University
 
 fields_of_interest:
