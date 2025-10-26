@@ -28,6 +28,7 @@ fields_of_interest:
   ]
 ```
 
-<h2> 📈 GitHub Stats </h2>
+<h2> 📈 GitHub Stats</h2>
+
 |![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=victorcynzo&theme=dark)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victorcynzo&theme=dark)|
 |-----|------|
