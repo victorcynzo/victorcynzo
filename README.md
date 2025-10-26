@@ -9,6 +9,12 @@
 
 <h2> ❔ Personal Information</h2>
 
+```yaml
+name: Victor IJnzonides
+Location: The Netherlands
+Education: [Bachelor Artscience, KABK][Master Creative Intelligence & Technology, Leiden University]
+```
+
 Name: Victor Ynzonides
 
 Location: The Netherlands
