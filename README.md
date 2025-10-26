@@ -1,19 +1,11 @@
-## Hi there 👋
-
-<!--
-**victorcynzo/victorcynzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <p alight="center">
   <img src = "https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Hello,%20I%20am%20Victor"/>
 </p>
+
+<h2>Some information about me</h2>
+
+```yaml
+name: Victor Ynzonides
+located_in: The Netherlands
+education: ["Bachelor ArtScience, KABK", Master Creative Intelligence & Technology, "Leiden University",]
+```
