@@ -2,7 +2,7 @@
   <img src = "https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Hello,%20I%20am%20Victor"/>
 </p>
 
-<h2>Tools I'm Currently Working With</h2>
+<h2> 💥 Tools I'm Currently Working With</h2>
 <p align="centre">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/julia/julia-original.svg" alt="Julia" width="50" height="50"/>
@@ -11,7 +11,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" alt="ArchLinux" width="50" height="50"/>
 </p>
 
-<h2>Personal Information</h2>
+<h2> ❔ Personal Information</h2>
 
 ```yaml
 name: Victor Ynzonides
