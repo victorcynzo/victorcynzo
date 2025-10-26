@@ -14,7 +14,7 @@ Name: Victor Ynzonides
 Location: The Netherlands
 
 Education:
-* [Bachelor ArtScience, KABK](https://www.kabk.nl/en/programmes/bachelor/art-science)
+* [Bachelor ArtScience, KABK](https://www.interfaculty.nl/)
 * [Master Creative Intelligence & Technology, Leiden University](https://www.universiteitleiden.nl/en/education/study-programmes/master/creative-intelligence--technology)
 
 Fields of Interest:
