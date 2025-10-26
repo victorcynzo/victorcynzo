@@ -31,7 +31,6 @@ fields_of_interest:
     Gaming
   ]
 ```
-![Snake animation](https://github.com/victorcynzo/victorcynzo/blob/output/github-contribution-grid-snake.svg)
 
 [logo]: https://i.redd.it/k9wl9ypumyp31.png
 ![alt text][logo]
