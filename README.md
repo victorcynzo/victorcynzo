@@ -31,7 +31,8 @@ fields_of_interest:
     Gaming
   ]
 ```
+
+![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorcynzo&show_icons=true&theme=dark)
+
 [logo]: https://i.redd.it/k9wl9ypumyp31.png
 ![alt text][logo]
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorcynzo)](https://github.com/victorcynzo/github-readme-stats)
