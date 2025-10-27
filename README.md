@@ -11,8 +11,12 @@
 
 ```yaml
 name: Victor IJnzonides
+
 Location: The Netherlands
-Education: ["Bachelor Artscience, KABK", "Master Creative Intelligence & Technology, Leiden University"]
+
+Education:
+  Bachelor Artscience, KABK
+  Master Creative Intelligence & Technology, Leiden University
 ```
 
 Name: Victor Ynzonides
