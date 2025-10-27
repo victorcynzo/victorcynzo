@@ -30,7 +30,7 @@ fields_of_interests:
       "Quantum Mechanics"
   ]
   
-currently_learning: ["Python", "Zig", "Julia", "ArchLinux", "Physics"]
+currently_learning: ["Python", "Julia", "Zig", "Physics", "ArchLinux"]
 hobbies: ["Gaming", "Art", "Reading"]
 ```
 
