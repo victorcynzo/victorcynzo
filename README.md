@@ -32,6 +32,7 @@ fields_of_interests:
   
 currently_learning: ["Python, Zig, Julia, ArchLinux, Physics"]
 hobbies: ["Gaming", "Art", "Reading"]
+```
 
 <h2> 📈 GitHub Stats</h2>
 
