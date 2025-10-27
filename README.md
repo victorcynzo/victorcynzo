@@ -11,29 +11,28 @@
 
 ```yaml
 name: Victor IJnzonides
+located_in: The Hague, the Netherlands
+current_job: Student
+education:
+  [
+    "Bachelor ArtScience, KABK",
+    "Master Creative Intelligence & Technology",
+  ]
 
-Location: The Netherlands
+fields_of_interests:
+  [
+    "Machine Learning",
+      "Eye Tracking",
+      "Data Analysis",
+      "Evolutionary Algorithms",
+    "Physics",
+      "The Three-Body Problem"
+      "Quantum Mechanics"
+  ]
+  
+currently_learning: ["Python, Zig, Julia, ArchLinux, Physics"]
+hobbies: ["Gaming", "Art", "Reading"]
 
-Education:
-  Bachelor Artscience, KABK
-  Master Creative Intelligence & Technology, Leiden University
-```
-
-Name: Victor Ynzonides
-
-Location: The Netherlands
-
-Education:
-* [Bachelor ArtScience, KABK](https://www.interfaculty.nl/)
-* [Master Creative Intelligence & Technology, Leiden University](https://www.universiteitleiden.nl/en/education/study-programmes/master/creative-intelligence--technology)
-
-Fields of Interest:
-* Machine Learning  
-* Physics  
-* Art  
-* [Reading](https://www.goodreads.com/user/show/191246301-victor)  
-* Gaming
-* 
 <h2> 📈 GitHub Stats</h2>
 
 |![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=victorcynzo&theme=dark)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victorcynzo&theme=dark)|
