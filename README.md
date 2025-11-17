@@ -41,4 +41,4 @@ hobbies: ["Gaming", "Art", "Reading"]
 
 <h2> 💻 Portfolio Website</h2>
 
-[link](https://victorcynzo.github.io/portfolio/)
+[Right click to open in new tab](https://victorcynzo.github.io/portfolio/)
